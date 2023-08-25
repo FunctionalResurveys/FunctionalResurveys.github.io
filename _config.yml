@@ -12,7 +12,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Functional Ecological and Evolutionary Resurveys"
 description:	       "Examining organismal function through time to detect climate change responses"
-author:              "Paul Le"
+author:              "Theme by Paul Le"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
