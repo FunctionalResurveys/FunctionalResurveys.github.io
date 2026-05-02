@@ -12,13 +12,7 @@ We have been investigating the interplay between phenology, phenotypic plasticit
 Our models suggest that plasticity in wing absorptivity can facilitate evolution, particularly at lower elevations with long seasons, by reducing temporal variation in the strength and direction of evolutionary selection. Phenological shifts caused by environmental effects on developmental rate can also reduce variation in selection. By using lab and field experiments and museum specimens to test our models, we confirmed model predictions in part but also highlighted how the interactions of multiple responses (e.g., plasticity and evolution) complicate phenotypic shifts. Extending the models to biogeographic scales and to future environments suggests that evolution and plasticity will shape responses, and that evolutionary lags may ultimately confer sensitivity, to climate change.
 
 ## Collaborators
-Joel Kingsolver, UNC
-
-Heidi MacLean
-
-Jessica Higgins
-
-Matt Nielsen
+[Joel Kingsolver](https://jgking.web.unc.edu/), [Heidi MacLean](https://www.au.dk/en/hmaclean@biomed.au.dk/), [Jessica Higgins](https://pharmasug.org/speakers/jessica-higgins/), [Matt Nielsen](https://matthewnielsen.net/), [Lauren Buckley](https://biology.washington.edu/people/lauren-buckley)
 
 ## Products
 Buckley LB and Kingsolver JG. 2019. Environmental variability shapes evolution, plasticity, and biogeographic responses to climate change. Global Ecology and Biogeography 28:1456-1468.
