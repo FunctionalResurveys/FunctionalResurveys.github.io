@@ -10,7 +10,7 @@ image: head_alexander.png
 <img align="left" height="150px" src="/assets/img/GARP.png" alt="GARP project logo">
 We collaborate on a grasshopper resurvey project founded by César Nufio to examine shifts in traits, phenology, abundance, and performance of grasshoppers along a Rocky Mountain elevation gradient (since initial surveys and specimen collection from 1930-1960) in response to recent climate change.
 
-An NSF Rules of Life Project in collaboration with the groups of Sean Schoville at U Wisconsin and Caroline Williams at UC Berkeley aims to improve prediction techniques by investigating how animals respond to shifts in both average environmental conditions and short-term, extreme environmental conditions. Average environmental conditions over time determine rates of energy gain and subsequently reproductive rates, whereas survival can be strongly influenced by short-term, extreme environmental conditions. In many species, the relative importance of reproduction and survival in determining fitness change systematically along environmental gradients. Along a mountain slope, reproduction is constrained at high altitudes by a short, cool, growing season, while survival is challenged at low altitudes in summer due to hot temperature extremes. The project goal is to develop a general modeling approach that can bridge levels of biological organization, space and time to predict shifts in survival and reproduction constraints and thus improve our ability to forecast responses to environmental gradients and change.
+An NSF Rules of Life Project in collaboration with the groups of [Sean Schoville at U Wisconsin](https://molecularecology.russell.wisc.edu/) and [Caroline Williams at UC Berkeley](https://www.cmwilliamslab.com/) aims to improve prediction techniques by investigating how animals respond to shifts in both average environmental conditions and short-term, extreme environmental conditions. Average environmental conditions over time determine rates of energy gain and subsequently reproductive rates, whereas survival can be strongly influenced by short-term, extreme environmental conditions. In many species, the relative importance of reproduction and survival in determining fitness change systematically along environmental gradients. Along a mountain slope, reproduction is constrained at high altitudes by a short, cool, growing season, while survival is challenged at low altitudes in summer due to hot temperature extremes. The project goal is to develop a general modeling approach that can bridge levels of biological organization, space and time to predict shifts in survival and reproduction constraints and thus improve our ability to forecast responses to environmental gradients and change.
 
 The project is leveraging survey and specimen data, from recent and historical periods, in an assemblage of grasshopper species found along a montane elevation gradient that vary in traits such as dispersal, phenology, morphology, and thermal specialization. Field reciprocal transplant experiments will quantify the integrated response to the environment, while assessing whether local adaptation and plasticity moderate reproduction and survival constraints along the environmental gradient. The transplants will use physiological and genomic biomarkers to test the hypothesis that survival constraints predominate at low elevations, while reproduction constraints predominate at high elevations. Lab common garden experiments manipulating environmental attributes that vary with elevation (temperature, temperature variability, photoperiod, radiation, hypoxia) will test physiological mechanisms that underlie fitness constraints. Model building will integrate these physiological mechanisms to predict responses to the elevation gradient. Then, historic survey and specimen data will be used to test whether these models successfully hindcast patterns of genetic, physiological, phenotypic, and demographic responses to 50 years of environmental change.
 
@@ -21,7 +21,6 @@ The project is leveraging survey and specimen data, from recent and historical p
 ### Lauren Buckley, U Washington
 
 Lauren is a professor in Biology at the University of Washington. Her research integrates modelling, field and lab collection of ecological and physiological data, and ecoinformatics to examine how biology (morphology, physiology, and life history) determines an organism’s ecological and evolutionary responses to climate change.  A focus in characterizing how organisms experience and respond to fine scale spatial and temporal environmental variation. Much of our recent work has entailed repeating functional experiments and observations on montane insects after several decades of climate change to assess ecological and evolutionary responses. Our TrEnCh project builds computational and visualization tools to Translate Environmental Change into organismal responses and improve capacity for ecological and evolutionary forecasting.
-
 
 <img align="left" height="175px" src="/assets/img/Caroline_Williams.png" alt="Caroline Williams">
 
@@ -35,6 +34,7 @@ Caroline is an Associate Professor at UC Berkeley. Her research addresses how an
 ### Monica Sheffer, UC Berkeley and U Washington
 
 I use interdisciplinary approaches to answer questions about animals’ ecology, especially in the context of global climate change and adaptation to extreme and changing conditions. I aim to integrate information from all levels of biological organization: from the molecular and physiological level, up to phenotypic outcomes for individuals, and how those outcomes shape population dynamics. As a postdoc working on the Gordon Alexander Resurvey Project, I am studying how survival and fecundity constraints vary with elevation in a montane grasshopper system, along a transect in the Rocky Mountains. Soon, I will begin my own project funded by the National Science Foundation’s Postdoctoral Research Fellowship in Biology program, expanding upon my work on the grasshoppers.
+
 My PhD work at the University of Greifswald in Germany integrated genomics, metabolomics, physiology and microbiology to investigate the success of the European wasp spider, Argiope bruennichi, in rapidly colonizing new habitats in northern Europe. I got my start in science as an undergraduate researcher in the UC Berkeley EvoLab, where I made use of next generation sequencing paired with field observations to describe and quantify the dynamics of dietary and spatial niche partitioning in three web-sharing Hawaiian spider genera. I continue to collaborate with the Berkeley EvoLab on a project within the California Conservation Genomics Project, where we are studying landscape genetics, chemical communication, and adaptation to the environment in two spider species, Tetragnatha versicolor and T. laboriosa, which are found exclusively in riparian zones, and may be at risk under climate change, as the small water bodies they rely on dwindle.
 
 
@@ -50,6 +50,7 @@ Simran is currently a second year PhD student at UC Berkeley, in Dr. Caroline Wi
 ### Thomas Näf, U Greifswald
 
 In my master thesis I studied the diversity of body coloration in many Lake Tanganyika (Zambia) cichlid species utilizing standardized digital photography and dimension reducing approaches like PCA and MCA. I also worked on a conservation project, performing visual and acoustic surveys to protect the endangered breeding corn crake birds (Crex crex) in Switzerland. In my current PhD work at the University of Greifswald, I research range expansion of lesser horseshoe bats (Rhinolophus hipposideros) in Germany. To avoid unnecessary harm and stress to this highly protected and endangered species, I leverage non-invasive methods like non-invasive DNA/eDNA, bioacoustics and video monitoring and visual counts to gain insight into large scale movement patterns, demographics, and population genetic characteristics.
+
 From fish to birds to bats, my research provides important information and tools for conservation, where my heart lies. Often in conservation, data collection is reduced to observatory techniques due to the endangered status of species under research. The mostly observatory nature of my current PhD work has sharpened my eye for potential confounding factors in the field. My extended fieldwork experience in all those projects has thus provided a valuable perspective as a volunteer for the grasshopper resurvey project. This includes photographic monitoring of vegetation available to montane grasshoppers throughout the season, as well as quantifying heterogenous solar radiation exposure throughout the day for these montane grasshoppers during the reciprocal transplant experiments. I also spend a lot of my free time in the field photographing wildlife, including the grasshoppers, and you can see some of those photos on this website.
 
 
@@ -78,13 +79,19 @@ Anna is an undergraduate student at the University of Washington studying Biolog
 
 ### César Nufio, HHMI
 
+César is a content developer who brings to the team his experiences as a field ecologist, museum curator, and university instructor. His research has explored insects in the fossil record, the impact of urban fragmentation on insect communities, the behavior of boxing flies in desert ecosystems, and the responses of grasshoppers to warming in the Rocky Mountains.
+
 ### Sean Schoville, U Wisconsin 
+
+Research in Sean's group focuses on species diversity, determining the role of ecological and evolutionary processes in generating this diversity, and developing management and conservation strategies that incorporate these processes. They develop and apply genetic approaches to address research questions, often integrating spatial environmental data, ecological studies, physiological experiments, and morphological variation.
 
 ### Michael Troutman, U Wisconsin
 
 ### Salomé Carrasco, UC Boulder
 
 ## Products
+Nufio CR, Sheffer MM, Smith JM, Troutman MT, Bawa SJ, Taylor ED, Schoville SD, Williams CM, Buckley LB. 2025. Insect size responses to climate change vary across elevations according to seasonal timing. PLoS Biology 23:e3002805.
+
 Buckley LB, Graham SI, and Nufio CR. 2021. Grasshopper species’ seasonal timing underlies shifts in phenological overlap in response to climate gradients, variability, and change. Journal of Animal Ecology 90:1252-1263.
 
 Smith JM, Telemeco RS+, Ortiz BAB, Nufio CR, and Buckley LB. 2021. High-Elevation Populations of Montane Grasshoppers Exhibit Greater Developmental Plasticity in Response to Seasonal Cues. Frontiers in Physiology 12: 738992.
@@ -97,4 +104,3 @@ Nufio CR and Buckley LB. 2019. Grasshopper phenological responses to climate gra
 
 Buckley LB, Nufio CR, Kirk EM, and Kingsolver JG. 2015. Developmental plasticity determines phenological responses to climate warming. Proceedings of the Royal Society B 282: 20150441.
 
-## News

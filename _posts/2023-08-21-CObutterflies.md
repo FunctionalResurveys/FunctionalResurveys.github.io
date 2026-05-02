@@ -26,5 +26,3 @@ Kingsolver JG and Buckley LB. 2017. Evolution of plasticity and adaptive respons
 MacLean HJ, Kingsolver JG, and Buckley LB. 2016. Historical changes in thermoregulatory traits of alpine butterflies reveal complex ecological and evolutionary responses to recent climate change. Climate Change Responses 3:13.
 
 Kingsolver JG and Buckley LB. 2015 Climate variability slows evolutionary responses of Colias butterflies to recent climate change. Proceedings of the Royal Society B 282: 20142470.
-
-## News
