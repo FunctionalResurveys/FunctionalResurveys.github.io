@@ -7,7 +7,7 @@ tags: [sample]
 image: head_alexander.png
 ---
 
-<img align="left" height="150px" src="/assets/img/GARP.png" alt="GARP project logo">
+<img align="left" height="150px" src="/assets/img/aoc.png" alt="Gordon Alexander project logo">
 We collaborate on a grasshopper resurvey project founded by César Nufio to examine shifts in traits, phenology, abundance, and performance of grasshoppers along a Rocky Mountain elevation gradient (since initial surveys and specimen collection from 1930-1960) in response to recent climate change.
 
 An NSF Rules of Life Project in collaboration with the groups of [Sean Schoville at U Wisconsin](https://molecularecology.russell.wisc.edu/) and [Caroline Williams at UC Berkeley](https://www.cmwilliamslab.com/) aims to improve prediction techniques by investigating how animals respond to shifts in both average environmental conditions and short-term, extreme environmental conditions. Average environmental conditions over time determine rates of energy gain and subsequently reproductive rates, whereas survival can be strongly influenced by short-term, extreme environmental conditions. In many species, the relative importance of reproduction and survival in determining fitness change systematically along environmental gradients. Along a mountain slope, reproduction is constrained at high altitudes by a short, cool, growing season, while survival is challenged at low altitudes in summer due to hot temperature extremes. The project goal is to develop a general modeling approach that can bridge levels of biological organization, space and time to predict shifts in survival and reproduction constraints and thus improve our ability to forecast responses to environmental gradients and change.
