@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gordon Alexander Resurvey Project"
+title: "Alexander Orthoptera Collection Resurvey"
 author: "Lauren Buckley"
 categories: facts
 tags: [sample]
